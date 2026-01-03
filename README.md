@@ -2,7 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=0078D7&center=true&vCenter=true&width=1000&lines=Добро+пожаловать+в+Winlator-REF4IK!;)](https://git.io/typing-svg)
 # Winlator REF4IK MOD
 
-
+<a href="https://t.me/winlatorruu">
+    <img src="https://img.shields.io/badge/Telegram-@winlatorruu-blue?logo=telegram" alt="Telegram Channel">
+  </a>
+  <a href="https://www.youtube.com/@blackfire3564">
+    <img src="https://img.shields.io/badge/YouTube-@blackfire3564-red?logo=youtube" alt="YouTube Channel">
+  </a>
+  
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 
@@ -52,6 +58,7 @@ This project has been in constant development since version 1.0, the current app
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/), [Max Ivan](https://github.com/Maxython), [Twaik Yont](https://github.com/twaik), [alexvorxx](https://github.com/alexvorxx),  [pipetto-crypto](https://github.com/Pipetto-crypto/winlator) and others.<br>
 Thank you to all the people who believe in this project.
+
 
 
 
